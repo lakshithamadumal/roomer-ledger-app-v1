@@ -100,7 +100,7 @@ This upgrade transforms Roomer from a local-only tool into a connected, collabor
 ---
 
 ## 🧑‍💻 Developed By  
-**The Zenon Studio**  
+**Lakshitha Madumal**  
 📧 Contact: **mandujayaweera2003@gmail.com**
 
 ---
